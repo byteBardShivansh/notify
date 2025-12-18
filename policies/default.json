@@ -1,0 +1,7 @@
+{
+  "allowedTemplates": [
+    "welcome-email",
+    "password-reset",
+    "order-confirmation"
+  ]
+}
